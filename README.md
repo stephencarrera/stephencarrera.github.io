@@ -1,3 +1,3 @@
 ## Personal Page
 
-### [Linky Link](www.stephencarrera.github.io)
+### [Linky Link](https://www.stephencarrera.github.io)
